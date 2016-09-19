@@ -1,7 +1,7 @@
 
 
 
-Software Specification  : 
+Working Software Specification  : 
 
 Cloudera Version : http://www.cloudera.com/documentation/archive/cdh/4-x/4-7-1/CDH-Version-and-Packaging-Information/cdhvd_topic_3.html?scroll=topic_3_1_unique_7  
 Hadoop Version : hadoop-2.0.0-cdh4.2.0     
